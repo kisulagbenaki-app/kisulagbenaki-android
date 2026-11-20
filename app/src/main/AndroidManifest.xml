@@ -1,5 +1,4 @@
 
-<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -35,12 +34,10 @@
             <meta-data
                 android:name="android.support.customtabs.trusted.DEFAULT_URL"
                 android:value="@string/launch_url" />
-
         </activity>
 
         <meta-data
             android:name="asset_statements"
             android:resource="@string/asset_statements" />
-
     </application>
 </manifest>
